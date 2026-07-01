@@ -1,0 +1,16 @@
+.venv/
+.venv2/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+urban_pulse.db
+*.db
+*.log
+.env
+.env.*
+.DS_Store
+node_modules/
+frontend/node_modules/
+dist/
+.vscode/
